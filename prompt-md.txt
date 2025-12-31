@@ -1,0 +1,13 @@
+help me convert @/Chapter_2.html into markdown. keep original anchor link and images.
+help me convert @/Chapter_3.html into markdown. keep original anchor link and images.
+help me convert @/Chapter_4.html into markdown. keep original anchor link and images.
+help me convert @/Chapter_5.html into markdown. keep original anchor link and images.
+help me convert @/Chapter_6.html into markdown. keep original anchor link and images.
+help me convert @/Chapter_7.html into markdown. keep original anchor link and images.
+help me convert @/Chapter_8.html into markdown. keep original anchor link and images.
+help me convert @/Chapter_9.html into markdown. keep original anchor link and images.
+help me convert @/Chapter_10.html into markdown. keep original anchor link and images.
+help me convert @/Appendix.html into markdown. keep original anchor link and images.
+
+help me convert @/Index.html into markdown. keep original anchor link and images.
+help me convert @/Other_Books_You_May_Enjoy.html into markdown. keep original anchor link and images.
