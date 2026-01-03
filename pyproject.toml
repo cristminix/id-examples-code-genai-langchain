@@ -1,0 +1,11 @@
+[project]
+name = "id-examples-code-genai-langchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "langchain>=1.2.0",
+    "langchain-openai>=1.1.6",
+]
