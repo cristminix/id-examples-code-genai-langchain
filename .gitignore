@@ -2,3 +2,4 @@ en/
 htmls/
 deepseek-3.1/
 .venv/
+.env
